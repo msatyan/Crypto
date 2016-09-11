@@ -12,8 +12,9 @@ Licensed under the Apache License, Version 2.0 (the "License");
 #### MyJWTv1.cs: 
 
 This module uses symmetric cryptographic algorithm HA256 to create JWT token signature. 
-Create JWT by accepting JSON string Header and Payload and a Secretkey
-Validate JWT by accepting JWT TokenString and Secretkey
+* **Create JWT by accepting JSON string Header and Payload and a Secretkey**
+* **Validate JWT by accepting JWT TokenString and Secretkey**
+*
 
 
 
